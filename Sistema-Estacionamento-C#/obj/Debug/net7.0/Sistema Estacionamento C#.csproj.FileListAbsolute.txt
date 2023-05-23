@@ -1,0 +1,15 @@
+C:\Projetos\Sistema Estacionamento C#\bin\Debug\net7.0\Sistema Estacionamento C#.exe
+C:\Projetos\Sistema Estacionamento C#\bin\Debug\net7.0\Sistema Estacionamento C#.deps.json
+C:\Projetos\Sistema Estacionamento C#\bin\Debug\net7.0\Sistema Estacionamento C#.runtimeconfig.json
+C:\Projetos\Sistema Estacionamento C#\bin\Debug\net7.0\Sistema Estacionamento C#.dll
+C:\Projetos\Sistema Estacionamento C#\bin\Debug\net7.0\Sistema Estacionamento C#.pdb
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.csproj.AssemblyReference.cache
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.AssemblyInfoInputs.cache
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.AssemblyInfo.cs
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.csproj.CoreCompileInputs.cache
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.dll
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\refint\Sistema Estacionamento C#.dll
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.pdb
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\Sistema Estacionamento C#.genruntimeconfig.cache
+C:\Projetos\Sistema Estacionamento C#\obj\Debug\net7.0\ref\Sistema Estacionamento C#.dll
